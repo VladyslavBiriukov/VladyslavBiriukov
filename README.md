@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="DtgL7gb"  ><a href="//imgur.com/DtgL7gb">&quot;The Hacker known as 4chan&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
+![hacker_](https://user-images.githubusercontent.com/115027241/226471494-788f7bcc-85e8-4c11-b957-4daeced6ee60.gif)
 
