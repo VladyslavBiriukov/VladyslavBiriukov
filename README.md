@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src=\"https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270"/>
+  <img src=\"https://giphy.com/gifs/YQitE4YNQNahy" width="480" height="270"/>
 </div>
+
+<!-- <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p> -->
 
 
 
