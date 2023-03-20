@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <img src=\"https://giphy.com/gifs/YQitE4YNQNahy" width="480" height="270"/>
-</div>
-
-<!-- <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="DtgL7gb"  ><a href="//imgur.com/DtgL7gb">&quot;The Hacker known as 4chan&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
